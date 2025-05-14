@@ -16,6 +16,7 @@ I've made several UI enhancements to the CataLift app to create a modern and use
 
 - “Show More/Less” functionality for long posts  
 - Interactive buttons (Like, Comment, Share, Save) with proper visual feedback  
+- **Implemented native Share functionality** to allow users to share post content externally  
 - Fill animations for Bookmark and Star buttons  
 - Material Design icons used for consistency  
 
@@ -51,12 +52,13 @@ I've made several UI enhancements to the CataLift app to create a modern and use
 |-------------|----------------|-----------|------------|------------|------------|
 | ![splashscreen](screenshots/splash_screen.jpg) | ![Home](screenshots/home1.jpg) | ![bookmark](screenshots/bookmark_page.jpg) | ![Expanded](screenshots/post_expanded.jpg) | ![Comments](screenshots/comment.jpg) | ![searchscreen](screenshots/search_result.jpg) |
 
+---
 
 ## 📦 APK (Download and Try)
 
 👉 [Click here to download the APK](apk/catalift_app.apk)
 
-
+---
 
 ## 🔧 Tech Stack
 
