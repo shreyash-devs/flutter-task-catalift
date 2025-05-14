@@ -1,0 +1,12 @@
+This is a placeholder file for the app icon.
+
+For a real app, you would place a 1024x1024 PNG file named 'appicon.png' in this directory.
+Since we can't create the image here directly, you would need to:
+
+1. Create a square PNG image with your app logo
+2. Name it 'appicon.png'
+3. Place it in the assets/icon/ directory
+4. Run: flutter pub run flutter_launcher_icons
+
+For now, the app will fall back to using the default Flutter icon or a simple fitness icon
+as configured in the splash screen. 
