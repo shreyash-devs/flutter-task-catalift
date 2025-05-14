@@ -49,7 +49,7 @@ I've made several UI enhancements to the CataLift app to create a modern and use
 
 | Splash Screen| Home Screen | Bookmark Screen | Post Expanded | Comments | Search Screen |
 |-------------|----------------|-----------|------------|------------|------------|
-| ![splashscreen](screenshots/splash_screen.jpg) | ![Home](screenshots/home1.jpg) | ![bookmark](screenshots/bookmark_screen.jpg) | ![Expanded](screenshots/post_expanded.jpg) | ![Comments](screenshots/comments.jpg) | ![searchscreen](screenshots/search_result.jpg) |
+| ![splashscreen](screenshots/splash_screen.jpg) | ![Home](screenshots/home1.jpg) | ![bookmark](screenshots/bookmark_page.jpg) | ![Expanded](screenshots/post_expanded.jpg) | ![Comments](screenshots/comment.jpg) | ![searchscreen](screenshots/search_result.jpg) |
 
 
 ## 📦 APK (Download and Try)
