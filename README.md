@@ -47,9 +47,9 @@ I've made several UI enhancements to the CataLift app to create a modern and use
 
 ## 📸 Screenshots
 
-| Home Screen | Post Expanded | Comments |
-|-------------|----------------|-----------|
-| ![Home](screenshots/home.png) | ![Expanded](screenshots/post_expanded.png) | ![Comments](screenshots/comments.png) |
+| Splash Screen| Home Screen | Bookmark Screen | Post Expanded | Comments | Search Screen |
+|-------------|----------------|-----------|------------|------------|------------|
+| ![splashscreen](screenshots/splash_screen.jpg) | ![Home](screenshots/home1.jpg) | ![bookmark](screenshots/bookmark_screen.jpg) | ![Expanded](screenshots/post_expanded.jpg) | ![Comments](screenshots/comments.jpg) | ![searchscreen](screenshots/search_result.jpg) |
 
 
 ## 📦 APK (Download and Try)
