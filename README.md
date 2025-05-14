@@ -1,63 +1,74 @@
-# Catalift Developer Task
+# 🚀 Catalift Assignment by Shreyash
 
-Welcome to the official task repository for candidates applying to join the Catalift development team.
-
-## 🎯 Task Objective
-
-Your task is to **replicate a mobile app screen** based on the design files we’ve shared with you via email. This will help us assess your development skills, code structure, and UI implementation capabilities.
+I've made several UI enhancements to the CataLift app to create a modern and user-friendly experience:
 
 ---
 
-## 📬 Design Assets
+## ✨ UI Modernization
 
-All required design assets (PNG/SVG) have been sent to your registered email address. Please check your inbox for a mail from **techcatalift@gmail.com** with the subject line:  
-**"Congratulations – Move Forward with Catalift's Developer Task!"**
-
----
-
-## ✅ What You Need to Do
-
-1. **Fork this repository** to your own GitHub account.
-2. Create a new branch (optional but preferred):  
-   `git checkout -b your-name-task`
-3. Build the screen using Flutter. (If you prefer to build using different tech stack and not flutter immediately mail techcatalift@gmail.com with subject as "change task repo")
-4. Maintain a clean and modular code structure.
-5. Commit and push your code directly to your forked repository not inside a folder.
-6. Submit the link to your public fork using the official submission form.
+- Added blue gradient color scheme throughout the app  
+- Implemented subtle shadows and elevation effects  
+- Created rounded corners for cards and containers  
 
 ---
 
-## 💡 Evaluation Criteria
+## 🧾 Post Card Improvements
 
-- Clean, well-organized code  
-- Accuracy and responsiveness of layout  
-- Sensible use of components and naming  
-- Design improvements (also heavily weighted: only for those who opted for dev+design)  
-
----
-
-## ⚠️ Important Notes
-
-- Submit your task within **7 days** of receiving this link.
-- Your forked repository must be **public** for review.
+- “Show More/Less” functionality for long posts  
+- Interactive buttons (Like, Comment, Share, Save) with proper visual feedback  
+- **Implemented native Share functionality** to allow users to share post content externally  
+- Fill animations for Bookmark and Star buttons  
+- Material Design icons used for consistency  
 
 ---
 
-## 📩 Need Help?
+## 💬 Comment System Enhancements
 
-If you face any issues or have questions, feel free to reach us at:  
-**techcatalift@gmail.com**
+- Dynamic comment count updates  
+- Nested comments and reply system  
+- Sync between Home and Bookmarks screen  
 
-We look forward to reviewing your work. Best of luck!
+---
 
+## 🔍 Search Experience
 
-About Catalift: 
-Catalift is a mobile-first platform that connects engineering students with alumni mentors for career guidance, emotional support, and real-world skill development. It offers:
+- Minimal, clean search bar design  
+- Removed excess animations  
+- Added clear button for better UX  
 
-1-on-1 mentorship
+---
 
-Career-focused cohorts and projects
+## 📚 Navigation & Bookmarks
 
-Alumni-led courses
+- Bookmark with visual feedback  
+- Bookmarked post counter  
+- Smooth transitions between screens  
 
-A supportive community for aspiring engineers
+---
+
+## 📸 Screenshots
+
+| Splash Screen| Home Screen | Bookmark Screen | Post Expanded | Comments | Search Screen |
+|-------------|----------------|-----------|------------|------------|------------|
+| ![splashscreen](screenshots/splash_screen.jpg) | ![Home](screenshots/home1.jpg) | ![bookmark](screenshots/bookmark_page.jpg) | ![Expanded](screenshots/post_expanded.jpg) | ![Comments](screenshots/comment.jpg) | ![searchscreen](screenshots/search_result.jpg) |
+
+---
+
+## 📦 APK (Download and Try)
+
+👉 [Click here to download the APK](apk/catalift_app.apk)
+
+---
+
+## 🔧 Tech Stack
+
+- Flutter (Dart)  
+- State management: `setState`  
+- Clean architecture  
+- Responsive UI  
+
+---
+
+## 💡 Final Notes
+
+These improvements have transformed the app into a more modern, visually appealing, and user-friendly experience while maintaining good performance.
