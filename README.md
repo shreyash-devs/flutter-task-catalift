@@ -1,61 +1,72 @@
-🚀 Catalift Assignment by Shreyash
-We've made several UI enhancements to the CataLift app to create a modern and user-friendly experience:
+# 🚀 Catalift Assignment by Shreyash
 
-✨ UI Modernization
-Added blue gradient color scheme throughout the app
+I've made several UI enhancements to the CataLift app to create a modern and user-friendly experience:
 
-Implemented subtle shadows and elevation effects
+---
 
-Created rounded corners for cards and containers
+## ✨ UI Modernization
 
-🧾 Post Card Improvements
-“Show More/Less” functionality for long posts
+- Added blue gradient color scheme throughout the app  
+- Implemented subtle shadows and elevation effects  
+- Created rounded corners for cards and containers  
 
-Interactive buttons (Like, Comment, Share, Save) with proper visual feedback
+---
 
-Fill animations for Bookmark and Star buttons
+## 🧾 Post Card Improvements
 
-Material Design icons used for consistency
+- “Show More/Less” functionality for long posts  
+- Interactive buttons (Like, Comment, Share, Save) with proper visual feedback  
+- Fill animations for Bookmark and Star buttons  
+- Material Design icons used for consistency  
 
-💬 Comment System Enhancements
-Dynamic comment count updates
+---
 
-Nested comments and reply system
+## 💬 Comment System Enhancements
 
-Sync between Home and Bookmarks screen
+- Dynamic comment count updates  
+- Nested comments and reply system  
+- Sync between Home and Bookmarks screen  
 
-🔍 Search Experience
-Minimal, clean search bar design
+---
 
-Removed excess animations
+## 🔍 Search Experience
 
-Added clear button for better UX
+- Minimal, clean search bar design  
+- Removed excess animations  
+- Added clear button for better UX  
 
-📚 Navigation & Bookmarks
-Bookmark with visual feedback
+---
 
-Bookmarked post counter
+## 📚 Navigation & Bookmarks
 
-Smooth transitions between screens
+- Bookmark with visual feedback  
+- Bookmarked post counter  
+- Smooth transitions between screens  
 
-📸 Screenshots
-Home Screen	Post Expanded	Comments
+---
 
-✅ Add your actual image files into a folder named screenshots/ in your GitHub repo.
+## 📸 Screenshots
 
-📦 APK (Download and Try)
-👉 Click here to download the APK
+| Home Screen | Post Expanded | Comments |
+|-------------|----------------|-----------|
+| ![Home](screenshots/home.png) | ![Expanded](screenshots/post_expanded.png) | ![Comments](screenshots/comments.png) |
 
-✅ Create an apk/ folder in your repo and upload your built .apk file inside it.
 
-🔧 Tech Stack
-Flutter (Dart)
+## 📦 APK (Download and Try)
 
-State management:  setState
+👉 [Click here to download the APK](apk/catalift_app.apk)
 
-Clean architecture
 
-Responsive UI
 
-💡 Final Notes
+## 🔧 Tech Stack
+
+- Flutter (Dart)  
+- State management: `setState`  
+- Clean architecture  
+- Responsive UI  
+
+---
+
+## 💡 Final Notes
+
 These improvements have transformed the app into a more modern, visually appealing, and user-friendly experience while maintaining good performance.
